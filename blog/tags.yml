@@ -1,0 +1,494 @@
+'2024':
+  label: '2024'
+  permalink: /tag/2024
+  description: '2024 tag'
+
+'2025':
+  label: '2025'
+  permalink: /tag/2025
+  description: '2025 tag'
+
+'aeropress':
+  label: 'aeropress'
+  permalink: /tag/aeropress
+  description: 'aeropress tag'
+
+'AI':
+  label: 'AI'
+  permalink: /tag/ai
+  description: 'AI tag'
+
+'algolia':
+  label: 'algolia'
+  permalink: /tag/algolia
+  description: 'algolia tag'
+
+'Android':
+  label: 'Android'
+  permalink: /tag/android
+  description: 'Android tag'
+
+'Apple':
+  label: 'Apple'
+  permalink: /tag/apple
+  description: 'Apple tag'
+
+'apps':
+  label: 'apps'
+  permalink: /tag/apps
+  description: 'apps tag'
+
+'Arc':
+  label: 'Arc'
+  permalink: /tag/arc
+  description: 'Arc tag'
+
+'audio':
+  label: 'audio'
+  permalink: /tag/audio
+  description: 'audio tag'
+
+'author':
+  label: 'author'
+  permalink: /tag/author
+  description: 'author tag'
+
+'azure':
+  label: 'azure'
+  permalink: /tag/azure
+  description: 'azure tag'
+
+'bare-ears':
+  label: 'bare-ears'
+  permalink: /tag/bare-ears
+  description: 'bare-ears tag'
+
+'bare-foot':
+  label: 'bare-foot'
+  permalink: /tag/bare-foot
+  description: 'bare-foot tag'
+
+'bash':
+  label: 'bash'
+  permalink: /tag/bash
+  description: 'bash tag'
+
+'BigTech':
+  label: 'BigTech'
+  permalink: /tag/bigtech
+  description: 'BigTech tag'
+
+'birding':
+  label: 'birding'
+  permalink: /tag/birding
+  description: 'birding tag'
+
+'blogging':
+  label: 'blogging'
+  permalink: /tag/blogging
+  description: 'blogging tag'
+
+'boredom':
+  label: 'boredom'
+  permalink: /tag/boredom
+  description: 'boredom tag'
+
+'cancer':
+  label: 'cancer'
+  permalink: /tag/cancer
+  description: 'cancer tag'
+
+'canonical':
+  label: 'canonical'
+  permalink: /tag/canonical
+  description: 'canonical tag'
+
+'castro':
+  label: 'castro'
+  permalink: /tag/castro
+  description: 'castro tag'
+
+'charity':
+  label: 'charity'
+  permalink: /tag/charity
+  description: 'charity tag'
+
+'church':
+  label: 'church'
+  permalink: /tag/church
+  description: 'church tag'
+
+'coffee':
+  label: 'coffee'
+  permalink: /tag/coffee
+  description: 'coffee tag'
+
+'cosmosDB':
+  label: 'CosmosDB'
+  permalink: /tag/cosmosdb
+  description: 'cosmosDB tag'
+
+'Covid':
+  label: 'Covid'
+  permalink: /tag/covid
+  description: 'Covid tag'
+
+'css':
+  label: 'css'
+  permalink: /tag/css
+  description: 'css tag'
+
+'Dad':
+  label: 'Dad'
+  permalink: /tag/dad
+  description: 'Dad tag'
+
+'daughter':
+  label: 'daughter'
+  permalink: /tag/daughter
+  description: 'daughter tag'
+
+'dog-walking':
+  label: 'dog-walking'
+  permalink: /tag/dog-walking
+  description: 'dog-walking tag'
+
+'eurovision':
+  label: 'eurovision'
+  permalink: /tag/eurovision
+  description: 'eurovision tag'
+
+'Fairphone':
+  label: 'Fairphone'
+  permalink: /tag/fairphone
+  description: 'Fairphone tag'
+
+'fediverse':
+  label: 'fediverse'
+  permalink: /tag/fediverse
+  description: 'fediverse tag'
+
+'firefox':
+  label: 'firefox'
+  permalink: /tag/firefox
+  description: 'firefox tag'
+
+'funeral':
+  label: 'funeral'
+  permalink: /tag/funeral
+  description: 'funeral tag'
+
+'gaming':
+  label: 'gaming'
+  permalink: /tag/gaming
+  description: 'gaming tag'
+
+'github':
+  label: 'github'
+  permalink: /tag/github
+  description: 'github tag'
+
+'google drive':
+  label: 'google drive'
+  permalink: /tag/google-drive
+  description: 'google drive tag'
+
+'gratitude':
+  label: 'gratitude'
+  permalink: /tag/gratitude
+  description: 'gratitude tag'
+
+'gremlin':
+  label: 'gremlin'
+  permalink: /tag/gremlin
+  description: 'gremlin tag'
+
+'grinder':
+  label: 'grinder'
+  permalink: /tag/grinder
+  description: 'grinder tag'
+
+'hamilton':
+  label: 'hamilton'
+  permalink: /tag/hamilton
+  description: 'hamilton tag'
+
+'health':
+  label: 'health'
+  permalink: /tag/health-2
+  description: 'health tag'
+
+'Health':
+  label: 'Health'
+  permalink: /tag/health
+  description: 'Health tag'
+
+'history':
+  label: 'history'
+  permalink: /tag/history
+  description: 'history tag'
+
+'how-to':
+  label: 'how-to'
+  permalink: /tag/how-to
+  description: 'how-to tag'
+
+'interviews':
+  label: 'interviews'
+  permalink: /tag/interviews
+  description: 'interviews tag'
+
+'iOS':
+  label: 'iOS'
+  permalink: /tag/ios
+  description: 'iOS tag'
+
+'iPhone':
+  label: 'iPhone'
+  permalink: /tag/iphone
+  description: 'iPhone tag'
+
+'job-hunting':
+  label: 'job-hunting'
+  permalink: /tag/job-hunting
+  description: 'job-hunting tag'
+
+'LanguageTool':
+  label: 'LanguageTool'
+  permalink: /tag/languagetool
+  description: 'LanguageTool tag'
+
+'layoffs':
+  label: 'layoffs'
+  permalink: /tag/layoffs
+  description: 'layoffs tag'
+
+'learn':
+  label: 'learn'
+  permalink: /tag/learn
+  description: 'learn tag'
+
+'mac':
+  label: 'mac'
+  permalink: /tag/mac
+  description: 'mac tag'
+
+'mastodon':
+  label: 'mastodon'
+  permalink: /tag/mastodon
+  description: 'mastodon tag'
+
+'microsoft':
+  label: 'microsoft'
+  permalink: /tag/microsoft
+  description: 'microsoft tag'
+
+'mindfulness':
+  label: 'mindfulness'
+  permalink: /tag/mindfulness
+  description: 'mindfulness tag'
+
+'money':
+  label: 'money'
+  permalink: /tag/money
+  description: 'money tag'
+
+'movies':
+  label: 'movies'
+  permalink: /tag/movies
+  description: 'movies tag'
+
+'mum':
+  label: 'mum'
+  permalink: /tag/mum
+  description: 'mum tag'
+
+'music':
+  label: 'music'
+  permalink: /tag/music
+  description: 'music tag'
+
+'musicals':
+  label: 'musicals'
+  permalink: /tag/musicals
+  description: 'musicals tag'
+
+'netflix':
+  label: 'netflix'
+  permalink: /tag/netflix
+  description: 'netflix tag'
+
+'omgalol':
+  label: 'omgalol'
+  permalink: /tag/omgalol
+  description: 'omgalol tag'
+
+'open-source':
+  label: 'open-source'
+  permalink: /tag/open-source
+  description: 'open-source tag'
+
+'Orion':
+  label: 'Orion'
+  permalink: /tag/orion
+  description: 'Orion tag'
+
+'overcast':
+  label: 'overcast'
+  permalink: /tag/overcast
+  description: 'overcast tag'
+
+'panic':
+  label: 'panic'
+  permalink: /tag/panic
+  description: 'panic tag'
+
+'parenting':
+  label: 'parenting'
+  permalink: /tag/parenting
+  description: 'parenting tag'
+
+'pdf':
+  label: 'pdf'
+  permalink: /tag/pdf
+  description: 'pdf tag'
+
+'personal':
+  label: 'personal'
+  permalink: /tag/personal
+  description: 'personal tag'
+
+'playdate':
+  label: 'playdate'
+  permalink: /tag/playdate
+  description: 'playdate tag'
+
+'PocketCasts':
+  label: 'PocketCasts'
+  permalink: /tag/pocketcasts
+  description: 'PocketCasts tag'
+
+'podcasts':
+  label: 'podcasts'
+  permalink: /tag/podcasts
+  description: 'podcasts tag'
+
+'portfolio':
+  label: 'portfolio'
+  permalink: /tag/portfolio
+  description: 'portfolio tag'
+
+'racheteer':
+  label: 'racheteer'
+  permalink: /tag/racheteer
+  description: 'racheteer tag'
+
+'relayFM':
+  label: 'RelayFM'
+  permalink: /tag/relayfm
+  description: 'relayFM tag'
+
+'sci-fi':
+  label: 'sci-fi'
+  permalink: /tag/sci-fi
+  description: 'sci-fi tag'
+
+'search':
+  label: 'search'
+  permalink: /tag/search
+  description: 'search tag'
+
+'sexuality':
+  label: 'sexuality'
+  permalink: /tag/sexuality
+  description: 'sexuality tag'
+
+'shingles':
+  label: 'shingles'
+  permalink: /tag/shingles
+  description: 'shingles tag'
+
+'shopping':
+  label: 'shopping'
+  permalink: /tag/shopping
+  description: 'shopping tag'
+
+'slash-pages':
+  label: 'slash-pages'
+  permalink: /tag/slash-pages
+  description: 'slash-pages tag'
+
+'snooker':
+  label: 'snooker'
+  permalink: /tag/snooker
+  description: 'snooker tag'
+
+'support':
+  label: 'support'
+  permalink: /tag/support
+  description: 'support tag'
+
+'tech':
+  label: 'tech'
+  permalink: /tag/tech
+  description: 'tech tag'
+
+'thunderbolt':
+  label: 'thunderbolt'
+  permalink: /tag/thunderbolt
+  description: 'thunderbolt tag'
+
+'tips':
+  label: 'tips'
+  permalink: /tag/tips
+  description: 'tips tag'
+
+'tv':
+  label: 'tv'
+  permalink: /tag/tv
+  description: 'tv tag'
+
+'tv-shows':
+  label: 'tv-shows'
+  permalink: /tag/tv-shows
+  description: 'tv-shows tag'
+
+'Ubuntu':
+  label: 'Ubuntu'
+  permalink: /tag/ubuntu
+  description: 'Ubuntu tag'
+
+'visual studio':
+  label: 'visual studio'
+  permalink: /tag/visual-studio
+  description: 'visual studio tag'
+
+'weblog':
+  label: 'weblog'
+  permalink: /tag/weblog
+  description: 'weblog tag'
+
+'WeblogPoMo2024':
+  label: 'WeblogPoMo2024'
+  permalink: /tag/weblogpomo2024
+  description: 'WeblogPoMo2024 tag'
+
+'windows':
+  label: 'windows'
+  permalink: /tag/windows
+  description: 'windows tag'
+
+'wordpress':
+  label: 'wordpress'
+  permalink: /tag/wordpress
+  description: 'wordpress tag'
+
+'writing':
+  label: 'writing'
+  permalink: /tag/writing
+  description: 'writing tag'
+
+'writings':
+  label: 'writings'
+  permalink: /tag/writings
+  description: 'writings tag'
