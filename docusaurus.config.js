@@ -94,29 +94,6 @@ const config = {
           },
         ],
       },
-      algolia: {
-        // The application ID provided by Algolia
-        appId: 'NFQ11EXRSP',
-
-        // Public API key: it is safe to commit it
-        apiKey: '7375f614771b0444c9651cd32f972efb',
-
-        indexName: 'Tech blog',
-
-        // Optional: see doc section below
-        contextualSearch: true,
-
-        // Optional: Algolia search parameters
-        searchParameters: {},
-
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: 'search',
-
-        // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
-        insights: false,
-
-        //... other Algolia params
-      },
       footer: {
         style: 'dark',
         links: [
@@ -132,6 +109,21 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  themes: [
+    [
+      "@easyops-cn/docusaurus-search-local",
+      {
+        hashed: true,
+        language: ["en"],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+        indexDocs: false,
+        indexBlog: true,
+        indexPages: true,
+      },
+    ],
+  ],
 
 };
 
