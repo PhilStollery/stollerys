@@ -8,7 +8,7 @@ The first thing you need to do is to create a JSON file of all your current post
 
 <!--truncate-->
 
-1. Sign in to your [omg.lol](https://home.omg.lol/dashboard/) account, select your domain name, then select **<i class="fas fa-rss"></i> Weblog**.
+1. Sign in to your [omg.lol](https://home.omg.lol/dashboard/) account, select your domain name, then select **<FAIcon icon="fa-solid fa-rss" /> Weblog**.
 2. Scroll to the bottom of the page.
 
 ![A screenshot of the different feeds that weblog can create.](https://cdn.some.pics/phils/667161206f26d.png)
