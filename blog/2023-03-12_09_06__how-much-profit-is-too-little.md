@@ -3,10 +3,12 @@ date: "2023-03-12T09:06"
 tags: [layoffs, BigTech]
 authors: pstollery
 ---
+
 # How much profit is too little?
-<!-- truncate -->
 
 Forget about Twitter. They're not making any profits and therefore reducing headcount might enable them to get some, maybe. I don't care obviously, as I'm [full mastodon](https://social.lol/@phils) now. What I'm talking about is Microsoft, Google, Apple, or any company that is actually making more profit than a single sensible person could spend in their life times.
+
+<!-- truncate -->
 
 Why are these companies making people redundant or sacking them? Apart from the cover they're getting from Twitter and the economic headwinds. Why is it more important to increase their profits or [EBIDTA](https://www.british-business-bank.co.uk/business-guidance/guidance-articles/finance/what-is-ebitda) ratio? Why more profit over the lives of the people they are potentially destroying? 
 

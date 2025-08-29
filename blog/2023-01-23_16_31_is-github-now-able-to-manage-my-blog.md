@@ -3,10 +3,12 @@ date: "2023-01-23T16:31"
 tags: [github, omgalol, blogging]
 authors: pstollery
 ---
+
 # Is GitHub now able to manage my blog?
-<!-- truncate -->
 
 One of the cool things about omg.lol and specially its weblog feature is that it's backed by an API. There are [steps](https://advent.weblog.lol/day-12) on how to hook it up. 
+
+<!-- truncate -->
 
 This is a test post to see if it's now working? Maybe I had the wrong address — maybe just my username? The problem was with my YAML to start with:
 

@@ -4,9 +4,9 @@ tags: [tv, sci-fi]
 authors: pstollery
 ---
 # Sci-Fi I have recently enjoyed
-<!-- truncate -->
 
 Here are some of them:
+<!-- truncate -->
 
 - [The Last of Us](https://en.wikipedia.org/wiki/The_Last_of_Us_%29TV_series%29)
 - [The Peripheral](https://en.m.wikipedia.org/wiki/The_Peripheral_%28TV_series%29) 

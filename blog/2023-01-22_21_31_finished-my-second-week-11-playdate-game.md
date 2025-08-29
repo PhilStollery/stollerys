@@ -1,17 +1,19 @@
 ---
 date: "2023-01-22T21:31"
 tags: [playdate, panic, gaming]
-Title: Finished my second (week 11) playdate game
+title: Finished my second playdate game
 authors: pstollery
 ---
+
 # Finished my second (week 11) playdate game, *sort of*
-<!-- truncate -->
 
 [![Battleship Godios box art](https://raw.githubusercontent.com/PhilStollery/phils.weblog.lol/master/images/Godios_one_screenshot_of_the_game.gif)](https://play.date/games/battleship-godios/)
 
 ### [Battleship Godios](https://play.date/games/battleship-godios/)
 
 This game reminded me so much of nemesis and R-Type. It spoke to me, and I loved how hard it was. You need to spend the time learning the patterns and do it right. You can earn plenty of extra lives if you're quick — use them if you lose a missile. 
+
+<!-- truncate -->
 
 Kill yourself and go back in time before you lost it. You need the most firepower you can get to kill later battleships.  
 

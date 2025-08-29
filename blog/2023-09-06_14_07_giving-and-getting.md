@@ -4,9 +4,10 @@ tags: [charity, relayFM]
 authors: pstollery
 ---
 # Giving and getting
-<!-- truncate -->
 
 Each tech-tember, cancer awareness month, or September to those that aren't in the know, a little podcasting network called [Relay.fm](https://www.relay.fm/) try to raise as much money as they can for children with cancer. In the past years, I've given small amounts, just to offset my tech buying guilt. 
+
+<!-- truncate -->
 
 This year, I decided to be a bit more greedy — whilst giving more to [St. Jude Children’s Research Hospital](https://relay.experience.stjude.org/). So thanks to [Robb](https://rknight.me) and [OMG.LOL](https://omglol.news/2023/08/29/supporting-st-jude-through-september), I now have five more years of my blog and now pages paid for.
 

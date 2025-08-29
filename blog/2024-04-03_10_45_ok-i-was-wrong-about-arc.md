@@ -3,12 +3,14 @@ title: I was wrong about Arc
 tags: [2024, AI, Orion, Arc]
 authors: pstollery
 ---
+
 # OK, I was wrong about Arc
-<!-- truncate -->
 
 <img src="https://cdn.some.pics/phils/660d34f2a96cc.webp" alt="Arc browser icon." className="img-left-150" />
 
 I liked it, I was using it on my Mac and iPhone. Then, [AI re-writing of the web came](https://m.youtube.com/playlist?list=PLsQcewe-IK8rQOrh4I29Bt_br1HxQsBku). 
+
+<!-- truncate -->
 
 I read the posts, listened to the podcasts. 
 

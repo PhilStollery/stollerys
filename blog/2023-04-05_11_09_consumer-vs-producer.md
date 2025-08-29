@@ -3,10 +3,12 @@ date: "2023-04-05T11:09"
 tags: [omgalol]
 authors: pstollery
 ---
+
 # Consumer vs Producer
-<!-- truncate -->
 
 I've realised, and knew really, that I'm not a blogger. I don't have things I need to post on the web. I don't need to share my thoughts. In fact, I'm reverting to my original Twitter behaviour. I consume rather than produce. 
+
+<!-- truncate -->
 
 I'm more than happy to reply to posts, toots, tweets, with witty comebacks. I'm happy to question someone's logic when I don't get it. But original thoughts seem to be illusive to me. 
 

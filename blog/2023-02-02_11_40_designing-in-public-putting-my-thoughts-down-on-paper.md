@@ -4,12 +4,14 @@ tags: [playdate, gaming]
 Title: Designing in public, putting my thoughts down on paper
 authors: pstollery
 ---
+
 # Designing in public, putting my thoughts down on paper
-<!-- truncate -->
 
 ![A little ship](https://raw.githubusercontent.com/PhilStollery/dontpanic/main/source/images/ship-0.png)![A little ship](https://raw.githubusercontent.com/PhilStollery/dontpanic/main/source/images/ship-1.png)![A little ship](https://raw.githubusercontent.com/PhilStollery/dontpanic/main/source/images/ship-3.png)
 
 I need to capture what I'm going to try and build for the playdate. Of all the season 1 games Battle Ship Godios tickled my brain. So much so that I went ahead and bought Gradius for the Switch. 
+
+<!-- truncate -->
 
 [![gradius](https://raw.githubusercontent.com/PhilStollery/phils.weblog.lol/master/images/gradius.png)](https://www.nintendo.com/store/products/arcade-archives-gradius-switch/)
 

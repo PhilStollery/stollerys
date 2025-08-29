@@ -3,10 +3,12 @@ date: "2023-09-27T12:10"
 tags: [iPhone, Apple]
 authors: pstollery
 ---
+
 # To pro or not to pro
-<!-- truncate -->
 
 I like to think of myself as a professional. Over the past years, I've been on the iPhone upgrade programme and defaulted to the iPhone Pro (flip-flopped between Max and normal depending on camera systems). Last year, the 14 didn't have much more than my iPhone 13 pro — so I didn't upgrade. I had an iPhone for two years for the first time I can remember. 
+
+<!-- truncate -->
 
 So, this year, it was a razor-thin decision for me to try the new Fairphone 5 or iPhone 15 (I assumed Pro). I looked at all my apps, worked out what I'd lose going to Android, but the final decision maker was Find My. I hoped logging into iCloud on the Fairphone would let me see where my families iPhones were. It doesn't, Apple has locked that down to your devices only, you can't see people. I don't want to change how my family find me — so looks like it's Apple forever. 
 

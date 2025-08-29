@@ -4,11 +4,13 @@ tags: [Apple, iOS, Android, Fairphone]
 authors: pstollery
 ---
 # Fairphone 4 and why I can't buy one
-<!-- truncate -->
+
 
 ![Fairphone 4 front and back hero photograph.](https://raw.githubusercontent.com/PhilStollery/phils.weblog.lol/master/images/grey-m_3b_backandfront_flat_new_1.jpg)
 
 The thing is, I've been addicted since iPhone 4. All in, bought a MacBook, so I've spent thousands of pounds with Apple. 
+
+<!-- truncate -->
 
 I have got my wife and daughter in on it too. They love their phones too.
 

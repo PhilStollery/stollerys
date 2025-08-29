@@ -4,9 +4,10 @@ tags: [iOS, apps, money]
 authors: pstollery
 ---
 # Cancelled most of my app subscriptions
-<!-- truncate -->
 
 Looking at my monthly outgoings I realised I could start making savings. Here’s the list of subs I cancelled.
+
+<!-- truncate -->
 
 - AirMail pro (trying default Mail app)
 - Backone app (the device still works)

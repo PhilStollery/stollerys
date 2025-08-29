@@ -3,12 +3,14 @@ date: "2023-01-11T09:52"
 tags: [playdate, panic, gaming]
 authors: pstollery
 ---
+
 # I've finished my first playdate game
-<!-- truncate -->
 
 [![Sasquatchers logo](https://raw.githubusercontent.com/PhilStollery/phils.weblog.lol/master/images/Sasquatchers-feature-title.png)](https://play.date/games/sasquatchers)
 
 There are others that I have tried to complete and failed, I'm looking at you [Zipper](https://play.date/games/zipper/). I got the key, got into the Castle, then died — ARRRGGGHHHHH.
+
+<!-- truncate -->
 
 If you've not got a [playdate](https://play.date/), and they are difficult to get, it's a little handheld console with 1 bit graphics. About half the size of an original Game Boy. Included in the price you pay you for it, you get 24 games that are sent to the device automatically, two new ones every week. 
 
