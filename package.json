@@ -9,6 +9,7 @@
     "fix-frontmatter": "node ./scripts/fix-frontmatter.mjs",
     "gen-tags": "node ./scripts/generate-tags.mjs",
     "insert-truncate": "node ./scripts/insert-truncation-markers.mjs",
+    "add-authors": "node ./scripts/add-authors.mjs",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
