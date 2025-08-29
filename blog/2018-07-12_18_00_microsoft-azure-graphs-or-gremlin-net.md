@@ -1,8 +1,8 @@
 ---
 date: "2018-07-12T18:00"
 tags: [azure, gremlin, cosmosDB]
+authors: pstollery
 ---
-
 # Microsoft.Azure.Graphs or Gremlin.Net
 <!-- truncate -->
 

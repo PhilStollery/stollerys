@@ -2,8 +2,8 @@
 date: "2023-01-22T21:31"
 tags: [playdate, panic, gaming]
 Title: Finished my second (week 11) playdate game
+authors: pstollery
 ---
-
 # Finished my second (week 11) playdate game, *sort of*
 <!-- truncate -->
 

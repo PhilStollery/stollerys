@@ -1,8 +1,8 @@
 ---
 date: "2024-06-23T20:00"
 tags: [2024, weblog, algolia, search]
+authors: pstollery
 ---
-
 # Testing GitHub actions to add new weblog posts to my search index
 
 Well, this is interesting. I've migrated my Weblog to GitHub, added a GitHub automation to submit new posts to my Algolia search index.

@@ -1,8 +1,8 @@
 ---
 date: "2018-02-12T18:00"
 tags: [azure, visual studio]
+authors: pstollery
 ---
-
 # Azure Data Lake Analytics
 <!-- truncate -->
 

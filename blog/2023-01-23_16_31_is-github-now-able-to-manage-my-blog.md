@@ -1,8 +1,8 @@
 ---
 date: "2023-01-23T16:31"
 tags: [github, omgalol, blogging]
+authors: pstollery
 ---
-
 # Is GitHub now able to manage my blog?
 <!-- truncate -->
 

@@ -1,8 +1,8 @@
 ---
 date: "2023-01-11T09:52"
 tags: [playdate, panic, gaming]
+authors: pstollery
 ---
-
 # I've finished my first playdate game
 <!-- truncate -->
 

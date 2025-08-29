@@ -1,8 +1,8 @@
 ---
 date: "2023-03-12T09:06"
 tags: [layoffs, BigTech]
+authors: pstollery
 ---
-
 # How much profit is too little?
 <!-- truncate -->
 

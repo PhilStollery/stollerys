@@ -1,7 +1,7 @@
 ---
 Title: The full list of all my defaults
+authors: pstollery
 ---
-
 # My defaults 2024
 
 <!-- truncate -->

@@ -1,8 +1,8 @@
 ---
 date: "2023-01-14T22:44"
 tags: [Apple, iOS, Android, Fairphone]
+authors: pstollery
 ---
-
 # Fairphone 4 and why I can't buy one
 <!-- truncate -->
 

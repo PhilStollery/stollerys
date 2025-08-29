@@ -1,8 +1,8 @@
 ---
 date: "2023-01-08T09:08"
 tags: [iOS, apps, money]
+authors: pstollery
 ---
-
 # Cancelled most of my app subscriptions
 <!-- truncate -->
 

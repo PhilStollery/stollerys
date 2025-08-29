@@ -57,13 +57,13 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/PhilStollery/stollerys/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
-          blogSidebarTitle: 'All posts',
-          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'Recent posts',
+          blogSidebarCount: 10,
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -78,53 +78,61 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Blog',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'My PS Logo',
           src: 'img/logo.svg',
         },
         items: [
-          {to: '/', label: 'Blog', position: 'left'},
+          {to: '/about', label: 'About', position: 'left'},
+          {to: '/archive', label: 'Archive', position: 'left'},
+          {to: '/slashes', label: '/', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/PhilStollery/stollerys',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: '5IEJQK1VKS',
+
+        // Public API key: it is safe to commit it
+        apiKey: 'ac72a47c74ff3942fb16741d248e8c34',
+
+        indexName: 'blog',
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        // Optional: Algolia search parameters
+        searchParameters: {},
+
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+
+        // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
+        insights: false,
+
+        //... other Algolia params
+      },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Mastodon',
-                href: 'https://social.lol/@phils',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
+            label: 'Mastodon',
+            href: 'https://social.lol/@phils',
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Stollerys.co.uk. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Phil Stollery. Built with <a href="/colophon">Docusaurus</a>.`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
     }),
+
 };
 
 export default config;

@@ -1,8 +1,8 @@
 ---
 date: "2023-09-27T12:10"
 tags: [iPhone, Apple]
+authors: pstollery
 ---
-
 # To pro or not to pro
 <!-- truncate -->
 

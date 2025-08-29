@@ -1,8 +1,8 @@
 ---
 title: I was wrong about Arc
 tags: [2024, AI, Orion, Arc]
+authors: pstollery
 ---
-
 # OK, I was wrong about Arc
 <!-- truncate -->
 

@@ -1,8 +1,8 @@
 ---
 date: "2023-03-08T21:09"
 tags: [omgalol]
+authors: pstollery
 ---
-
 # Posting from Drafts
 <!-- truncate -->
 

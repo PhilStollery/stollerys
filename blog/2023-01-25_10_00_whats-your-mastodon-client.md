@@ -1,8 +1,8 @@
 ---
 date: "2023-01-25T10:00"
 tags: [fediverse, apps]
+authors: pstollery
 ---
-
 # What’s your Mastodon client?
 <!-- truncate -->
 

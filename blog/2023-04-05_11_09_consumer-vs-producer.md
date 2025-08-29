@@ -1,8 +1,8 @@
 ---
 date: "2023-04-05T11:09"
 tags: [omgalol]
+authors: pstollery
 ---
-
 # Consumer vs Producer
 <!-- truncate -->
 

@@ -1,7 +1,7 @@
 ---
 tags: [2024, weblog, algolia, search]
+authors: pstollery
 ---
-
 # How to add Algolia search to your weblog (or static website)
 
 The first thing you need to do is to create a JSON file of all your current posts. This JSON will be used to create a search index in Algolia. 

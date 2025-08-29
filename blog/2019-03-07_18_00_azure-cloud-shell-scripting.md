@@ -1,8 +1,8 @@
 ---
 date: "2019-03-07T18:00"
 tags: [azure, bash]
+authors: pstollery
 ---
-
 # Azure Cloud Shell scripting
 <!-- truncate -->
 

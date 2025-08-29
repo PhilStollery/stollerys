@@ -1,12 +1,12 @@
 ---
 date: "2025-01-01T19:00"
 tags: [2025, tech]
+authors: pstollery
 ---
-
 # New Year and my new tech
-<!-- truncate -->
 
 I’ll start with the cool computer that could fit in my pocket, and that is my Ubuntu machine for testing. 
+<!-- truncate -->
 
 The [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/), with an NVMe M.2 HAT+ and 512GB drive. 
 

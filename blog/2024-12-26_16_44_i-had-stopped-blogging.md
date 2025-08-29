@@ -1,8 +1,8 @@
 ---
 date: 2024-12-26T16:44
 tags: [2024, iOS, writing, WeblogPoMo2024]
+authors: pstollery
 ---
-
 # I had stopped blogging
 
 I think two things happened. I wasn’t busy/dedicated to my work, and I was looking for a new job. 

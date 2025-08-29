@@ -2,8 +2,8 @@
 date: "2023-02-02T11:40"
 tags: [playdate, gaming]
 Title: Designing in public, putting my thoughts down on paper
+authors: pstollery
 ---
-
 # Designing in public, putting my thoughts down on paper
 <!-- truncate -->
 
