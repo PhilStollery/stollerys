@@ -5,7 +5,7 @@ authors: pstollery
 ---
 # My Podcast Player Evolution
 
-UPDATED: Wednesday, 29 August 2025
+<FAIcon icon="fa-solid fa-clock" /> UPDATED: Wednesday, 29 August 2025
 
 My evolution:
 
@@ -14,8 +14,8 @@ My evolution:
 - Started with: [Overcast](https://overcast.fm) (subscriber)
 - Then: [Castro](https://www.castro.fm) (subscriber)
 - Settled: [Pocket Casts](https://www.pocketcasts.com) (paid for online and iOS)
-- *Back on: [Overcast](https://overcast.fm) (subscriber)
-- **Back on: [Castro](https://www.castro.fm) (subscriber)
+- *Back on: [Overcast](https://overcast.fm) (still a subscriber)
+- **Back on: [Castro](https://www.castro.fm) (still a subscriber)
 
 Pocket Casts enables me to listen on my PC, Mac, iPhone, and Sonos speakers easily. Still <FAIcon icon="fa-solid fa-heart" /> Overcast though [Marco](https://mastodon.social/@marcoarment).
 
