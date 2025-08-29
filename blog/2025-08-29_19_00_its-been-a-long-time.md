@@ -1,5 +1,5 @@
 ---
-tags: [2025, tech]
+tags: [2025, tech, mum, cancer, docusaurus, mkdocs]
 authors: pstollery
 title: Long time
 ---

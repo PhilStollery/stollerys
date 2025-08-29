@@ -95,7 +95,7 @@ function writeTagsYaml(entries) {
     return (
       `${key}:\n` +
       `  label: ${label}\n` +
-      `  permalink: /tag/${e.slug}\n` +
+      `  permalink: /${e.slug}\n` +
       `  description: ${desc}`
     );
   }).join('\n\n') + '\n';

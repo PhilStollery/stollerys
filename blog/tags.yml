@@ -148,6 +148,11 @@
   permalink: /daughter
   description: 'daughter tag'
 
+'docusaurus':
+  label: 'docusaurus'
+  permalink: /docusaurus
+  description: 'docusaurus tag'
+
 'dog-walking':
   label: 'dog-walking'
   permalink: /dog-walking
@@ -223,11 +228,6 @@
   permalink: /health
   description: 'Health tag'
 
-'history':
-  label: 'history'
-  permalink: /history
-  description: 'history tag'
-
 'how-to':
   label: 'how-to'
   permalink: /how-to
@@ -287,6 +287,11 @@
   label: 'mindfulness'
   permalink: /mindfulness
   description: 'mindfulness tag'
+
+'mkdocs':
+  label: 'mkdocs'
+  permalink: /mkdocs
+  description: 'mkdocs tag'
 
 'money':
   label: 'money'
@@ -352,11 +357,6 @@
   label: 'pdf'
   permalink: /pdf
   description: 'pdf tag'
-
-'personal':
-  label: 'personal'
-  permalink: /personal
-  description: 'personal tag'
 
 'playdate':
   label: 'playdate'
@@ -487,8 +487,3 @@
   label: 'writing'
   permalink: /writing
   description: 'writing tag'
-
-'writings':
-  label: 'writings'
-  permalink: /writings
-  description: 'writings tag'
