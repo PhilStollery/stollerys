@@ -34,3 +34,8 @@
 .img-right-150 { width:150px; height:auto; float:right; margin-left:1em; margin-bottom:1em; }
 .img-199 { width:199px; height:199px; }
 .img-246 { width:246px; height:246px; }
+
+/* Add rounded corners to all images */
+img {
+  border-radius: 0.5rem;
+}
