@@ -1,3 +1,23 @@
+'2018':
+  label: '2018'
+  permalink: /2018
+  description: '2018 tag'
+
+'2019':
+  label: '2019'
+  permalink: /2019
+  description: '2019 tag'
+
+'2020':
+  label: '2020'
+  permalink: /2020
+  description: '2020 tag'
+
+'2023':
+  label: '2023'
+  permalink: /2023
+  description: '2023 tag'
+
 '2024':
   label: '2024'
   permalink: /2024
@@ -305,8 +325,13 @@
 
 'mum':
   label: 'mum'
-  permalink: /mum
+  permalink: /mum-2
   description: 'mum tag'
+
+'Mum':
+  label: 'Mum'
+  permalink: /mum
+  description: 'Mum tag'
 
 'music':
   label: 'music'
@@ -377,6 +402,11 @@
   label: 'portfolio'
   permalink: /portfolio
   description: 'portfolio tag'
+
+'procrastination':
+  label: 'procrastination'
+  permalink: /procrastination
+  description: 'procrastination tag'
 
 'racheteer':
   label: 'racheteer'
