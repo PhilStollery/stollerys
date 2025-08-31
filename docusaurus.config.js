@@ -99,6 +99,7 @@ const config = {
         },
         items: [
           {to: '/about', label: 'About', position: 'left'},
+          {to: '/tags', label: 'Tags', position: 'left'},
           {to: '/archive', label: 'Archive', position: 'left'},
           {to: '/slashes', label: '/', position: 'left'},
           {
