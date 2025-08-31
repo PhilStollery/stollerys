@@ -1,6 +1,6 @@
 ---
 date: "2018-07-12T18:00"
-tags: [azure, gremlin, cosmosDB]
+tags: [2018, azure, gremlin, cosmosDB]
 authors: pstollery
 ---
 

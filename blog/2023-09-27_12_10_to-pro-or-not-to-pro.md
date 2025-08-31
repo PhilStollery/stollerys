@@ -1,6 +1,6 @@
 ---
 date: "2023-09-27T12:10"
-tags: [iPhone, Apple]
+tags: [2023, iPhone, Apple]
 authors: pstollery
 ---
 

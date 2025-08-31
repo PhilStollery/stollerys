@@ -1,6 +1,6 @@
 ---
 date: "2019-08-29T18:00"
-tags: [azure, learn, author]
+tags: [2019, azure, learn, author]
 authors: pstollery
 ---
 # Microsoft Learn author

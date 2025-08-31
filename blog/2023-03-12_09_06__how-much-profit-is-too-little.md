@@ -1,6 +1,6 @@
 ---
 date: "2023-03-12T09:06"
-tags: [layoffs, BigTech]
+tags: [2023, layoffs, BigTech]
 authors: pstollery
 ---
 

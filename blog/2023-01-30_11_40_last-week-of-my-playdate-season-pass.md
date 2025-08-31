@@ -1,6 +1,6 @@
 ---
 date: "2023-01-30T11:40"
-tags: [playdate, racheteer]
+tags: [2023, playdate, racheteer]
 Title: Last week of my playdate season pass
 authors: pstollery
 ---

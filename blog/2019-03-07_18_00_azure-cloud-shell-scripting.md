@@ -1,6 +1,6 @@
 ---
 date: "2019-03-07T18:00"
-tags: [azure, bash]
+tags: [2019, azure, bash]
 authors: pstollery
 ---
 

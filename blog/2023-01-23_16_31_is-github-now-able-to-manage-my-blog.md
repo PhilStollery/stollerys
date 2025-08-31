@@ -1,6 +1,6 @@
 ---
 date: "2023-01-23T16:31"
-tags: [github, omgalol, blogging]
+tags: [2023, github, omgalol, blogging]
 authors: pstollery
 ---
 

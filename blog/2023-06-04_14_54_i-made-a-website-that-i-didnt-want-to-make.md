@@ -1,6 +1,6 @@
 ---
 date: "2023-06-04T14:54"
-tags: [funeral, Dad]
+tags: [2023, funeral, Dad]
 authors: pstollery
 ---
 # I made a website that I didn’t want to make

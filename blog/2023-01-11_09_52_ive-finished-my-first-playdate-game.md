@@ -1,6 +1,6 @@
 ---
 date: "2023-01-11T09:52"
-tags: [playdate, panic, gaming]
+tags: [2023, playdate, panic, gaming]
 authors: pstollery
 ---
 
