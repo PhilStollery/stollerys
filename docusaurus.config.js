@@ -81,6 +81,10 @@ const config = {
             from: '/now',
             to: 'https://now.stollerys.co.uk',
           },
+          {
+            from: '/status',
+            to: 'https://status.stollerys.co.uk',
+          },
         ],
       },
     ],
