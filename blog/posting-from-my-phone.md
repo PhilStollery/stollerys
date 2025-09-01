@@ -8,7 +8,7 @@ authors: pstollery
 
 Just a quick test post from working copy.
 
-<!— truncate —>
+<!-- truncate -->
 
 I’m using working copy to manage the GitHub side of things. Just need to find a nicer writing experience. I do rely on grammar and spell checking. 
 
