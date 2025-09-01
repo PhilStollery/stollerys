@@ -1,8 +1,8 @@
-—
+---
 date: 2025-09-01T10:46
 tags: [2025, tech, iPhone]
 authors: pstollery
-—
+---
 
 # Posting from my phone
 
