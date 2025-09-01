@@ -138,6 +138,11 @@
   permalink: /church
   description: 'church tag'
 
+'cloudflare':
+  label: 'cloudflare'
+  permalink: /cloudflare
+  description: 'cloudflare tag'
+
 'coffee':
   label: 'coffee'
   permalink: /coffee
@@ -240,12 +245,12 @@
 
 'health':
   label: 'health'
-  permalink: /health-2
+  permalink: /health
   description: 'health tag'
 
 'Health':
   label: 'Health'
-  permalink: /health
+  permalink: /health-2
   description: 'Health tag'
 
 'how-to':
