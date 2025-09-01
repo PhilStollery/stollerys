@@ -1,0 +1,19 @@
+---
+date: 2024-01-18T14:40
+tags: [2024,blogging]
+authors: pstollery
+---
+
+# Closing in on 1,000 views 🎉
+
+Thank you, if you’ve come to check out my web musings. Being part of the new indie web renaissance must be part of it, or maybe Mastodon is just a better place for my social posts. These have then driven traffic my way.
+
+<!-- truncate -->
+
+If you don’t have a blog, or a Mastodon instance, have a look at [omg.lol](https://home.omg.lol/referred-by/phils). The little heart has encouraged me to put more out there.
+
+If you need some help:
+
+* [IndieWeb.org](https://indieweb.org/) — A wiki that explains the principles and practices of the indie web, and provides tutorials and tools for creating your own website.
+* [JoinMastodon.org](https://joinmastodon.org/) — The home of Mastodon.
+* [omg.lol](https://home.omg.lol/referred-by/phils) — A platform that lets you create your own personal website with a custom domain, a bio, a blog, and a now page.

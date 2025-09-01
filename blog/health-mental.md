@@ -1,0 +1,15 @@
+---
+date: 2023-11-22T12:46
+tags: [2023, Health]
+authors: pstollery
+---
+
+# Health (Mental)
+
+…
+
+<!-- truncate -->
+
+I don't know what to say. I don't know how I feel. I get emotional, wet eyes, at strange things. I picked up a can of [Trip](https://drink-trip.com/products/peach-ginger), and thought CBD, then started weeping a little. 
+
+Peace out ✌️

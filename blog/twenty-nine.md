@@ -1,0 +1,13 @@
+---
+date: 2024-05-30T12:58
+tags: [2024, WeblogPoMo2024, slash-pages]
+authors: pstollery
+---
+# Twenty-nine
+
+The penultimate day of [#WeblogPoMo2024](https://weblog.anniegreens.lol/weblog-posting-month-2024). I'd been checking in on [Annie](https://weblog.anniegreens.lol/) and then by chance listened to [Hemispheric Views](https://listen.hemisphericviews.com/). Can you guess what I'm thinking of doing?
+
+<!--truncate-->
+
+That's right, a slashes page for my [slash pages](https://rknight.me/blog/slash-pages/). Although I'm missing a few of them. I've had to create hacky JavaScript redirects for some of them — but my currently [supported list](https://stollerys.co.uk/slashes) is up.
+

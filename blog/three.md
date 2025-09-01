@@ -1,0 +1,17 @@
+---
+date: 2024-05-03T09:27
+tags: [2024, WeblogPoMo2024, music, weblog]
+authors: pstollery
+---
+
+# Three
+
+… is the magic number. <!--truncate-->I love the [Magic Numbers](https://www.themagicnumbers.uk/), and have been fortunate to see them live near to where I [live](https://nibleyfestival.co.uk/). I also like Hip-Hop and De La Soul's "The Magic Number" track. 
+
+If you check out my [About me page](https://me.stollerys.co.uk/), you'll see my LastFM and Spotify accounts to get a fuller picture of my musical trends. Although my LastFM listening habits are somewhat skewed by some of my daughters' tracks. Or you can see on my [Now page](https://now.stollerys.co.uk/) the last track I scrobbled.
+
+This brings me onto one of the benefits of having the amazing [omg.lol](https://omg.lol) weblog and account. You get so much more for your $20 a year — and I've connected them all to my own domain.
+
+![A screenshot of my OMG.lol DNS settings.](https://cdn.some.pics/phils/6634c2a7b0353.png)
+
+[#WeblogPoMo2024](https://weblog.anniegreens.lol/weblog-posting-month-2024)
